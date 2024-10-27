@@ -14,6 +14,10 @@ assignees: thimblebird
 
 **The wrong translation(s)**
 1. `[translation key]` = `current translation`
+2. `[translation key]` = `current translation`
+3. ...
 
 **The right translation(s)**
 1. `[translation key]` = `new translation`
+2. `[translation key]` = `new translation`
+3. ...
