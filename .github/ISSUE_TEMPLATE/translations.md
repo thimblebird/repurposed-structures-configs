@@ -13,7 +13,7 @@ assignees: thimblebird
  - Resourcepack: [e.g. Challenge Advancements Translations]
 
 **The wrong translation(s)**
-1. `[translation key]` = `translation`
+1. `[translation key]` = `current translation`
 
 **The right translation(s)**
-1. `[translation key]` = `translation`
+1. `[translation key]` = `new translation`
